@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Frontend Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).
 
-🔍 My current objectives:
+## 🔍 My current objectives:
 - **Real-World Projects:** Eager to work on real, impactful projects and make a difference.
 - **Teamwork:** Aspiring to collaborate with experienced professionals to learn and share knowledge.
 - **Exploration:** Keen on exploring and mastering new frameworks that complement the MERN stack.
@@ -33,7 +33,7 @@ I'm a Frontend Developer specializing in the MERN stack (MongoDB, Express.js, Re
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-## Connect with me:
+## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/frontend-guy/)
 [![Email](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:trade93@gmail.com)
