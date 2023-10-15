@@ -27,8 +27,12 @@ I'm a Frontend Developer specializing in the MERN stack (MongoDB, Express.js, Re
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=Redux)
+![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=React%20Router)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
