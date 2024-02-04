@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Pavel! 👋
 
-I discovered a love for software engineering two years ago, fascinated by the possibilities and potential of AI, which motivated me to start learning to code on my own. In 2022, I relocated to the U.S, where I began my life from scratch and quickly adapted to a new role as a CAD Programmer, mastering new technical skills. Despite the challenges of moving to a new country, I continued my studies and completed Yandex's rigorous web development program, structured according to Agile principles with hard deadlines and regular reviews, ultimately mastering the MERN stack. Now, with extensive training and personal projects under my belt, including some cool AI apps, I am determined to secure a full-time position as a web developer, where I can share my technical skills and passion for innovation.
+Two years ago, I started teaching myself coding because I was fascinated by AI and its possibilities. In 2022, I faced a significant life change - moved to the U.S., where I quickly adapted to a new role as a CAD Programmer and mastered new technical skills. Despite the challenges of relocating and starting anew, I continued to nurture my love for coding and completed a rigorous web development program by Yandex, learning the MERN stack through hands-on projects and Agile methods. Now, with solid training and personal projects, I'm excited to pursue a full-time web developer role where I can contribute my skills and innovate.
 
 ## 🛠️ My Skills and Tools:
 
